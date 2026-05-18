@@ -1,0 +1,2 @@
+# customer-success-sow-and-scope-document-generator
+This digital product is a powerful Customer Success SOW and Scope Document Generator, designed to streamline the creation of professional Statements of Work and scope documents for customer success engagements. It provides a comprehensive set of customizable templates tailored to various customer success projects, including onboarding, training, ac
