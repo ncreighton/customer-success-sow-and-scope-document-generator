@@ -1,2 +1,25 @@
-# customer-success-sow-and-scope-document-generator
-This digital product is a powerful Customer Success SOW and Scope Document Generator, designed to streamline the creation of professional Statements of Work and scope documents for customer success engagements. It provides a comprehensive set of customizable templates tailored to various customer success projects, including onboarding, training, ac
+# Customer Success SOW and Scope Document Generator
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w00j26HaQA8FG7jCcZo0h)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w00j26HaQA8FG7jCcZo0h)
+
